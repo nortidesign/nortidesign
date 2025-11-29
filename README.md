@@ -1,16 +1,20 @@
-## Hi there 👋
+# Norti Design
 
-<!--
-**nortidesign/nortidesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Norti Design é um estúdio de design multidisciplinar especializado em Identidade Visual, UI/UX Design e Modelagem 3D. Atuamos unindo clareza, estratégia e execução técnica para desenvolver soluções visuais e digitais de alto padrão.
 
-Here are some ideas to get you started:
+## Áreas de atuação
+- Identidade Visual e Branding  
+- UI/UX Design para Web e Mobile  
+- Design de Interfaces  
+- Modelagem 3D e Prototipagem  
+- Renderização e visualização de produtos  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Em desenvolvimento
+- Portfólio oficial  
+- Design System  
+- Estudos e cases de UI/UX  
+- Protótipos 3D  
+
+## Contato
+E-mail: contato@nortidesign.com.br  
+Instagram: @nortidesign
